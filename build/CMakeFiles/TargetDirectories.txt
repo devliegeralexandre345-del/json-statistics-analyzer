@@ -1,0 +1,5 @@
+/home/ubuntu/cpp-generator/workspace/json-statistics-analyzer/build/CMakeFiles/json_statistics_analyzer.dir
+/home/ubuntu/cpp-generator/workspace/json-statistics-analyzer/build/CMakeFiles/unit_tests.dir
+/home/ubuntu/cpp-generator/workspace/json-statistics-analyzer/build/CMakeFiles/test.dir
+/home/ubuntu/cpp-generator/workspace/json-statistics-analyzer/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/cpp-generator/workspace/json-statistics-analyzer/build/CMakeFiles/rebuild_cache.dir
